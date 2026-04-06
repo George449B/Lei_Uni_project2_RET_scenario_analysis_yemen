@@ -1,0 +1,27 @@
+# R session
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.gb/
+.Rproj.user/
+
+# Data
+data/raw/
+data/processed/
+data/spatial/
+
+# Outputs
+outputs/
+
+# Renv
+renv/library/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs/temp
+*.log
+*.tmp
