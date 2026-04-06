@@ -7,9 +7,11 @@ created:260405
 - Scenarios were generated through Battelle Method therefore compatibility and plausibility of scenarios were identified through expert panel poll. 
 - Two plausible scenarios were identified and further elaborated
 - The code contains two parts:
-  1) Model identifying and assuming Male 15-35 populaiton cohort
+Model identifying and assuming Male 15-35 population cohort
     - average of exponential and linear projection of population cohort growth based on worldpop rasters
     - urban clusters of the population cohort base on worldpop raster
+Battelle scenarion analysis
+	- compatibility analysis
 ### Requirements
 - R >= 2026.1.2.418
 - Packages: tidyverse, modelsummary, tinytable, terra, sf
