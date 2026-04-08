@@ -1,17 +1,17 @@
 # Project: Yemen - Scenarion analysis
 created:260405
 ## Description
-- The project analyses two plausible scenarios in Yemen with implications to radicalism, extremism and terrorism (RET). The projection is following 20 years (up to 2045)
+- The project analyzes two plausible scenarios in Yemen with implications for radicalism, extremism and terrorism (RET). The projection covers 20 years (up to 2045)
 ## Method
-- Drivers of change (factors) were identified by PMESII-PT analysis
-- Scenarios were generated through Battelle Method therefore compatibility and plausibility of scenarios were identified through expert panel poll. 
+- Drivers of change (factors) were identified by a PMESII-PT analysis
+- Scenarios were generated through the Battelle Method therefore compatibility and plausibility of scenarios were identified through an expert panel poll. 
 - Two plausible scenarios were identified and further elaborated
 - The code contains two parts:
-Model identifying and assuming Male 15-35 population cohort
-    - average of exponential and linear projection of population cohort growth based on worldpop rasters
-    - urban clusters of the population cohort base on worldpop raster
-Battelle scenarion analysis
-	- compatibility analysis
+Model identifying and assuming the male 15-35 population cohort
+    - Average of exponential and linear projection of population cohort growth based on Worldpop rasters
+    - Urban clusters of the population cohort base on worldpop raster
+Battelle scenario analysis
+	- Compatibility analysis
 ### Requirements
 - R >= 2026.1.2.418
 - Packages: tidyverse, modelsummary, tinytable, terra, sf
@@ -29,7 +29,7 @@ install.packages("tidyverse", "modelsummary", "tinytable", "terra", "sf" "rstudi
 ## Usage
 - A) Install packages, renv::activate(); renv::init()
 - B) Run the main script a_runall.R (Terminal -> Rscript a_runall.R)
-- C) Use particular parts of the script for the inspiration of an analysis workflow :). 
+- C) Use particular parts of the script for inspiration of an analysis workflow :). 
 - In case of reproduction of another analysis the scripts need to be changed for specific data
 
 ## Data
