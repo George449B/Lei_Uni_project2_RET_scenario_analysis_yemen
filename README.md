@@ -1,4 +1,4 @@
-# Project: Yemen - Scenarion analysis
+# Project: Yemen - Scenario analysis
 created:260405
 ## Description
 - The project analyzes two plausible scenarios in Yemen with implications for radicalism, extremism and terrorism (RET). The projection covers 20 years (up to 2045)
